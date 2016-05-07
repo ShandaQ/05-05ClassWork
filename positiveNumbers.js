@@ -24,5 +24,5 @@ for(var i = 0; i < arr.length; i++){
   }
 }
 
-console.log(negativeArr);
-console.log(positiveArr);
+console.log("Here are the negative numbers from the original array" + negativeArr);
+console.log("Here are the positive numbers from the original array" +positiveArr);
